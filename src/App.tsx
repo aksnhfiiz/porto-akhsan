@@ -1,5 +1,5 @@
 // src/App.tsx
-import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
+import { HashRouter as Router, Route, Routes } from "react-router-dom";
 import Navbar from './components/navbar';
 import Home from './pages/home';
 import Pendidikan from './pages/pendidikan';
